@@ -8,6 +8,13 @@ these lines on first chapter are the result of the first branching of the main f
   b. make edits to that branch \l
   c. pull request
   d. check and approve
+
+1.   better?
+2.   right
+
+maybe?
+
+
   e. commit?
   f. ea
 
