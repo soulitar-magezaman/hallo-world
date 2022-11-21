@@ -5,7 +5,7 @@ these lines on first chapter are the result of the first branching of the main f
 ## first chapter
 1. get to know the flow
   a. create a branch
-  b. make edits to that branch
+  b. make edits to that branch \l
   c. pull request
   d. check and approve
   e. commit?
